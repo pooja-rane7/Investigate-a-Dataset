@@ -1,4 +1,5 @@
 # Investigate-a-Dataset
+This project was completed as part of the course requirements of Udacity's [Data Analyst Nanodegree certification.](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 ### Overview: ###
 In this project, I have analysed TMDB dataset, which is available on Kaggle. This dataset contains information related to arround 10,000 movies collected from TMDBIt includes information about movie’s viewer’s rating,budget, revenue, genres, production companies, director, casting, keywords associated with movies, popularity ofthe movies and runtime.This dataset can help to understand various factors like profitability, the trend around runtime,popularity over the years, popular genres for the profitability, connection between popularity
