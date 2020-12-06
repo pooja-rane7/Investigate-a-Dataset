@@ -15,7 +15,7 @@ I will need an installation of Python, plus the following libraries:
 
 ### Project Details: Dataset ###
 TMDb movie data (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata))
-> Project Details: Sample Questions
+> ## Project Details: Sample Questions ##
 > 1. Which duration movies are most liked by the audiences according to their popularity?
 > 2. What is the average revenue of the movie?
 
