@@ -11,7 +11,7 @@ I will need an installation of Python, plus the following libraries:
 * NumPy
 * Matplotlib
 * csv
-I recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
+> I recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 ### Project Details: Dataset ###
 TMDb movie data (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata))
